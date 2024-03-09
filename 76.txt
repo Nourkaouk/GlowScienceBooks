@@ -1,0 +1,3 @@
+S orbital: The s orbital is the orbital lowest in energy and is spherical in shape. Electrons in this orbital are in their fundamental frequency. This orbital can hold a maximum of two electrons.
+P Orbital: The next lowest-energy orbital is the p orbital . Its shape is often described as like that of a dumbbell. There are three p-orbitals each oriented along one of the 3-dimensional coordinates x, y or z. Each of these three ”p” orbitals can hold a maximum of two electrons.
+These three different p orbitals can be referred to as the px, py, and pz. 

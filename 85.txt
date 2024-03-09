@@ -1,0 +1,4 @@
+Melting Point: is the temperature at which a solid substance changes to its liquid state. For example, ice is the solid form of water. Ice melts to liquid at 0°C. Therefore, the melting point of ice is 0°C. 
+Boiling Point: is the temperature at which the vapor pressure of the liquid equals the surrounding atmospheric pressure. At sea level water boils at 100°C. 
+Density: is defined as the mass per unit volume of a substance.
+Note that to determine the density of a substance we should know its mass and the volume it occupies. The unit of density is kg/m3.
