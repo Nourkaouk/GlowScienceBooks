@@ -1,0 +1,3 @@
+Cytoskeleton: The cytoskeleton is a network of long fibers that make up the cell’s structural framework. The cytoskeleton has several critical functions, including determining cell shape, participating in cell division, and allowing cells to move. It also provides a track-like system that directs the movement of organelles and other substances within cells. 
+Endoplasmic reticulum (ER): This organelle helps process molecules created by the cell. The endoplasmic reticulum also transports these molecules to their specific destinations either inside or outside the cell.
+Golgi apparatus: The Golgi apparatus packages molecules processed by the endoplasmic reticulum to be transported out of the cell.

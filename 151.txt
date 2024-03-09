@@ -1,0 +1,2 @@
+In any two-body system, there are five points called Lagrange points where the net force on a body at that point would be zero. For example:
+The L1 point is between the Sun and the Earth. The L2 point is on the Sun-Earth line, but farther from the Sun than the Earth. The L3 point is on the Sun-Earth line, but on the other side of the Sun. The L4 point forms an equilateral triangle with the Sun and Earth, and leads the Earth. The L5 point, forms an equilateral triangle with the Sun and Earth, but trails the Earth.
