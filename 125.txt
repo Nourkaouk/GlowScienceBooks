@@ -1,0 +1,8 @@
+The major fields of physics are: Classical mechanics is the study the motion of bodies according to Newton’s laws of motion. 
+Electricity and magnetism are two closely related phenomena that are together considered a single field of physics. 
+Quantum mechanics describes the peculiar motion of very small bodies.
+Optics is the study of light.
+Acoustics is the study of sound. 
+Solid-state physics is the study of solids—most often crystalline metals. 
+Plasma physics is the study of plasmas (ionized gases). 
+Atomic, nuclear, and particle physics study of the atom, the atomic nucleus, and the particles that make up the atom. 

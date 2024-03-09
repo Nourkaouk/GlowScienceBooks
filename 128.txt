@@ -1,0 +1,2 @@
+It is important that we have very precise definitions of physical units — not only for scientific use, but also for trade and commerce. In practice, we define a few base units, and derive other units from combinations of those base units. For example, if we define units for length and time, then we can define unit for speed as the length divided by time.
+How many base units do we need to define? There is no magic number; it is possible to define a system of units using only one base unit (and this is done for so-called natural units). 
